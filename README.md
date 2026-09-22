@@ -14,14 +14,6 @@
 
 <br>
 
-<a href="https://github.com/hacker99902">
-  <img src="https://img.shields.io/github/followers/hacker99902?label=Followers&style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/hacker99902">
-  <img src="https://img.shields.io/github/stars/hacker99902?label=Stars&style=for-the-badge&logo=github">
-</a>
-
 </div>
 
 ---
