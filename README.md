@@ -1,90 +1,57 @@
-╔══════════════════════════════════════════════╗
+<!-- ===================== HEADER ===================== -->
 
-              👋 SATISH MALLADAD
+<div align="center">
 
-       AI/ML • RAG • COMPUTER VISION
-             FULL-STACK DEVELOPER
+# 👋 Hey, I'm Satish Malladad
 
-       [🌐 Portfolio] [💼 LinkedIn] [📧 Email]
+### AI/ML Engineer • RAG Developer • Computer Vision • Full-Stack Developer
 
-───────────────────────────────────────────────
+<p>
+  <em>
+    Building intelligent systems that connect AI with real-world applications.
+  </em>
+</p>
 
-                   👨‍💻 ABOUT ME
+<br>
 
-AI/ML student building practical intelligent systems
-using machine learning, RAG, computer vision and
-modern web technologies.
+<a href="https://github.com/hacker99902">
+  <img src="https://img.shields.io/github/followers/hacker99902?label=Followers&style=for-the-badge&logo=github">
+</a>
 
-🎓 B.E. Student
-🤖 AI / ML
+<a href="https://github.com/hacker99902">
+  <img src="https://img.shields.io/github/stars/hacker99902?label=Stars&style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🧠 About Me
+
+I'm a **B.E. AI/ML student** interested in building practical intelligent systems using:
+
+- 🤖 Machine Learning
+- 🧠 Generative AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation
+- 👁️ Computer Vision
+- 🌐 Full-Stack AI Applications
+- 🗄️ Databases & Vector Search
+
+I enjoy taking an idea from **problem → model → backend → UI → deployment**.
+
+Currently exploring deeper into **Computer Vision, RAG systems, AI agents and DSA**.
+
+---
+
+<!-- ===================== CURRENTLY ===================== -->
+
+## ⚡ Currently Building
+
+```text
 🧠 RAG & LLM Applications
-👁️ Computer Vision
-🌐 Full-Stack Development
-
-───────────────────────────────────────────────
-
-                   🚀 PROJECTS
-
-🌧️ AquaHarvest AI
-AI-powered rainwater harvesting recommendation system
-
-🧠 Saathi AI
-AI document intelligence & RAG platform
-
-📦 PackVision AI
-Computer vision based package analysis
-
-🔎 Research Radar
-AI-powered research intelligence platform
-
-───────────────────────────────────────────────
-
-                  🧠 TECH STACK
-
-AI/ML
-Python • Scikit-learn • PyTorch • TensorFlow • OpenCV
-
-AI ENGINEERING
-RAG • LLMs • Embeddings • ChromaDB • FAISS
-
-DEVELOPMENT
-React • Next.js • Node.js • Express • Flask
-
-DATABASES
-MySQL • MongoDB • PostgreSQL
-
-TOOLS
-Git • GitHub • Docker • Postman
-
-───────────────────────────────────────────────
-
-                  📊 GITHUB
-
-              [GitHub Stats]
-              [Contribution Stats]
-
-───────────────────────────────────────────────
-
-                  🐍 ACTIVITY
-
-             [Contribution Snake]
-
-───────────────────────────────────────────────
-
-                 🏆 ACHIEVEMENTS
-
-IEEE Hackathon • Deloitte AI Analyst
-
-───────────────────────────────────────────────
-
-                 📚 CURRENTLY LEARNING
-
-Computer Vision • Advanced RAG • DSA • FastAPI
-
-───────────────────────────────────────────────
-
-                  🤝 CONNECT
-
-GitHub • LinkedIn • Portfolio • Email
-
-╚══════════════════════════════════════════════╝
+👁️ Computer Vision Systems
+🤖 AI-powered Web Applications
+📚 DSA & Problem Solving
+☁️ Deployment & Cloud
