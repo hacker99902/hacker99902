@@ -10,14 +10,6 @@
 
 <br>
 
-<a href="https://github.com/hacker99902">
-  <img src="https://img.shields.io/github/followers/hacker99902?label=Followers&style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/hacker99902">
-  <img src="https://img.shields.io/github/stars/hacker99902?label=Stars&style=for-the-badge&logo=github" />
-</a>
-
 </div>
 
 ---
@@ -51,42 +43,21 @@ Currently exploring **Computer Vision, RAG systems, AI agents and DSA**.
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+**Languages**  
+Python • C++ • JavaScript • HTML • CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
+**AI / ML**  
+Machine Learning • Deep Learning • Computer Vision • RAG • LLMs  
+OpenCV • PyTorch • TensorFlow • Scikit-learn
 
-### 🤖 AI / ML
+**Web Development**  
+React • Next.js • Flask • FastAPI • Node.js • Express • Tailwind CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
+**Databases & Search**  
+MySQL • MongoDB • PostgreSQL • ChromaDB • FAISS
 
-**Machine Learning** • **Computer Vision** • **RAG** • **LLMs**  
-**Embeddings** • **Vector Search** • **NLP** • **Deep Learning**
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,nodejs,express,tailwind" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-**ChromaDB** • **FAISS** • **Vector Databases**
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-</p>
-
----
+**Tools**  
+Git • GitHub • VS Code • Docker
 
 ## 🚀 Featured Projects
 
@@ -110,16 +81,6 @@ An AI-powered document intelligence system that processes documents and enables 
 
 ---
 
-### 📦 PackVision AI
-
-**Computer Vision Based Package Analysis**
-
-A computer vision system designed to analyze packages using image-based AI models.
-
-**Tech:** `Python` `OpenCV` `YOLO` `Computer Vision` `Deep Learning`
-
----
-
 ### 🔎 Research Radar AI
 
 **AI-powered Research Intelligence Platform**
@@ -127,61 +88,6 @@ A computer vision system designed to analyze packages using image-based AI model
 An AI-powered platform for exploring, retrieving and analyzing research information.
 
 **Tech:** `Next.js` `React` `LLMs` `RAG` `AI Search`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=hacker99902&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker99902&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=hacker99902&theme=tokyonight&hide_border=true"
-  width="70%"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hacker99902&theme=tokyo-night&hide_border=true&area=true"
-  width="95%"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=hacker99902&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-  width="95%"
-/>
-
-</div>
 
 ---
 
@@ -199,37 +105,19 @@ An AI-powered platform for exploring, retrieving and analyzing research informat
 
 ---
 
-## 🗺️ My AI Engineering Roadmap
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="YOUR_PORTFOLIO">
+    🌐 Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/satish-malladad-852b86333?">
+    💼 LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:satishmalladad65@gmail.com">
+    📧 Email
+  </a>
+</p>
 
-```text
-                         ┌───────────────┐
-                         │    Python     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DSA / CS   │
-                         └───────┬───────┘
-                                 │
-                ┌────────────────┼────────────────┐
-                ▼                ▼                ▼
-           ┌─────────┐      ┌─────────┐      ┌──────────────┐
-           │ ML / DL │      │   RAG   │      │Computer Vision│
-           └────┬────┘      └────┬────┘      └──────┬───────┘
-                │                │                  │
-                └────────────────┼──────────────────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │  AI Systems   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │  Full Stack   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         🚀 Production AI
