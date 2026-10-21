@@ -19,7 +19,6 @@
 I'm a **B.E. AI/ML student** interested in building practical intelligent systems using:
 
 - 🤖 Machine Learning
-- 🧠 Generative AI & LLM Applications
 - 🔎 Retrieval-Augmented Generation
 - 👁️ Computer Vision
 - 🌐 Full-Stack AI Applications
@@ -27,7 +26,7 @@ I'm a **B.E. AI/ML student** interested in building practical intelligent system
 
 I enjoy taking an idea from **problem → model → backend → UI → deployment**.
 
-Currently exploring **Computer Vision, RAG systems, AI agents and DSA**.
+Currently exploring **Deep Learning, Computer Vision, RAG systems and DSA**.
 
 ---
 
@@ -47,14 +46,14 @@ Currently exploring **Computer Vision, RAG systems, AI agents and DSA**.
 Python • C++ • JavaScript • HTML • CSS
 
 **AI / ML**  
-Machine Learning • Deep Learning • Computer Vision • RAG • LLMs  
+Machine Learning • Deep Learning • Computer Vision • RAG 
 OpenCV • PyTorch • TensorFlow • Scikit-learn
 
 **Web Development**  
-React • Next.js • Flask • FastAPI • Node.js • Express • Tailwind CSS
+Flask • FastAPI 
 
 **Databases & Search**  
-MySQL • MongoDB • PostgreSQL • ChromaDB • FAISS
+MySQL • MongoDB • ChromaDB • FAISS
 
 **Tools**  
 Git • GitHub • VS Code • Docker
