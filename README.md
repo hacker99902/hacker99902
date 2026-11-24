@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Satish Malladad
 
-### AI/ML Engineer • RAG Developer • Computer Vision • Full-Stack Developer
+### AI/ML Engineer • RAG Developer • Computer Vision 
 
 <p>
   <em>Building intelligent systems that connect AI with real-world applications.</em>
@@ -47,7 +47,7 @@ Python • C++ • JavaScript • HTML • CSS
 
 **AI / ML**  
 Machine Learning • Deep Learning • Computer Vision • RAG 
-OpenCV • PyTorch • TensorFlow • Scikit-learn
+OpenCV • PyTorch • TensorFlow • Scikit-learn • LangChain
 
 **Web Development**  
 Flask • FastAPI 
