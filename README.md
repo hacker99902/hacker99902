@@ -95,7 +95,7 @@ An AI-powered platform for exploring, retrieving and analyzing research informat
 | Area | Focus |
 |---|---|
 | 🤖 AI/ML | Machine Learning, Deep Learning |
-| 🧠 GenAI | LLMs, RAG, Embeddings |
+| 🧠 GenAI | LLMs, RAG, Embeddings, LangChain |
 | 👁️ Computer Vision | OpenCV, YOLO, Image Processing |
 | 🔎 Information Retrieval | Vector Search, ChromaDB, FAISS |
 | 🌐 Full Stack | React, Flask, FastAPI, Node.js |
